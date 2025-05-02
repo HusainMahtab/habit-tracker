@@ -465,7 +465,7 @@ export default function HabitTracker() {
 
                 <div className="mb-4">
                   <div className="flex justify-between items-center mb-2">
-                    <span className="text-sm text-gray-500">Adjust today's progress:</span>
+                    <span className="text-sm text-gray-500">Adjust today progress:</span>
                     <button 
                       onClick={() => resetDailyHabit(habit.id)}
                       className="text-xs text-indigo-600 hover:text-indigo-800 cursor-pointer"
