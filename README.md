@@ -1,7 +1,9 @@
 # HabitHero - Personal Habit Tracker
 
-![HabitHero Screenshot](https://i.imgur.com/JQZ1l7a.png)  
+![HabitHero Screenshot]([https://i.imgur.com/JQZ1l7a.png](https://github.com/HusainMahtab/habit-tracker/blob/main/public/projectImage.png))  
 *(Screenshot placeholder - replace with your actual screenshot)*
+
+![Live Project Link] ([https://habit-tracker-bmqy.vercel.app/])
 
 A modern, feature-rich habit tracking application built with Next.js, TypeScript, and Tailwind CSS. Track your daily routines, visualize progress, and build lasting habits with beautiful data visualizations.
 
